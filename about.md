@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a cool guy
+Aspiring Data Scientist. Add me on social medias if you like.
 
 ### More Information
 
